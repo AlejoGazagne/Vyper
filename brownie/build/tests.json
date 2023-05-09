@@ -1,0 +1,16 @@
+{
+  "contracts": {
+    "spriteCreator": "7aa33ab6a11657fdfdb09c2345c63de5939452e0",
+    "spriteHolder": "bbdfecd46e1ddc0ac00f6cd624e793512d3b2b26"
+  },
+  "tests": {
+    "tests/test_spriteCreator.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": ".F",
+      "sha1": "23c3af00c657832fec8b7742ac0457c271dba5ec",
+      "txhash": []
+    }
+  },
+  "tx": {}
+}
